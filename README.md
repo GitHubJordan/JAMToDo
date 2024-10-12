@@ -1,4 +1,4 @@
-# ToDo App
+# JAMToDo | ToDo App
 
 Um aplicativo simples para gerenciar suas tarefas diárias de forma eficiente.
 
